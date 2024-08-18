@@ -29,6 +29,7 @@ Programming + assistance
 Graphics
 - B1 Gaming (Logo)
 - Miguel (Tilesets)
+- Rimea (tilesets)
 - rodmjorgeh (Backgrounds)
 - Swiftshine (Backgrounds)
 - Teltix (Backgrounds)
