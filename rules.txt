@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010101C00,0005000010101D00,0005000010101E00,000500001014B700,000500001014B800
+name = Small Super Mario Sunset
+path = "New Super Mario Bros. U/Mods/Super Mario Sunset"
+description = A one world shortened version of Super Mario Sunset with original music, custom code, and lots of flowers!
+version = 6

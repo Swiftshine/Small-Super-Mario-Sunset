@@ -1,0 +1,10 @@
+0//< Version
+"e_Suityu"//< enemy
+"b_Kumo"//< boss
+"mo_Suityu"//< mapobj
+"i_Suityu"//< item
+"p_Suityu"//< player
+"m_Suityu"//< DV
+"ef_default"//< effect
+//"lm_Kumonaka"//< lightmap
+"lm_Suityu"//< lightmap

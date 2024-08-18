@@ -1,0 +1,9 @@
+0//< Version
+"e_Kurayami_C"//< enemy
+"b_Kurayami_C"//< boss
+"mo_Kurayami_C"//< mapobj
+"i_Kurayami_C"//< item
+"p_Kurayami_C"//< player
+"m_Hune"//< DV
+"ef_Hune"//< effect
+"lm_Hune"//< lightmap

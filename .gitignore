@@ -1,0 +1,6 @@
+# BFSAR can't be uploaded to github. See release.
+*.bfsar
+
+# Test
+stuff/
+music/
